@@ -1,0 +1,7 @@
+# --------------------------------- Insert only generic ignore here, each project will inherit them.
+node_modules
+
+.vscode
+.idea
+.DS_*
+build
