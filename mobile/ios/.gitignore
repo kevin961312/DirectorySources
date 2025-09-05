@@ -23,5 +23,4 @@ node_modules/
 
 # iOS Platform
 platforms/ios/build/
-platforms/ios/www/
 *.xcuserdatad
